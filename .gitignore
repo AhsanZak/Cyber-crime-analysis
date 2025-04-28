@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#ignoring sensitive
+data/test.xlsx
+data/GeoLite2-City.mmdb
+
 # C extensions
 *.so
 
