@@ -1,0 +1,5 @@
+,device_id,identity,bank,device_fingerprint,gpu_renderers,screen,os,browser,ips,country,city,subnet,timezone,os.1,browser.1,is_mobile
+count,1436,1436,1436,1436,1436,1436,1436,1436,1436,1436,1201,1436,1436,1436,1436,1436
+unique,169,333,11,36,28,27,24,36,830,11,45,145,17,2,3,2
+top,614d661d-3a4d-47db-9e2b-874e481260ea,2577384,Bank8,C45D75CA94FD92796B0F51000CF754B035AA4E48,-,"(780, 360, 24)",Android ,Chrome 78.0.3904,185.97.201.65,Russia,Moscow,176.59.32.0/20,Europe/Moscow,Other,Other,False
+freq,391,223,400,391,658,416,450,290,50,1185,545,259,1151,1429,1331,1223
